@@ -9,14 +9,6 @@
 Libraries used: numpy, pandas, matplotlib, seaborn, statsmodel, fbprophet (Facebook).
 
 
-# Table Of Contents
--  [Project Structure Overview](#project-structure-overview)
--  [Business Context](#business-context)
--  [Problem Statement](#problem-statement)
--  [Desired Outcome](#desired-outcome)
--  [Version](#version)
--  [Author](#author)
--  [References](#references)
 
 <br/>
 <br/>
@@ -27,6 +19,11 @@ Libraries used: numpy, pandas, matplotlib, seaborn, statsmodel, fbprophet (Faceb
 |  ├── data          - this folder contains training data.
 |  │    ├── sales.csv - trimmed data is uploaded due to max limit
 |  │    └── store.csv
+   └── sales.csv
+   └── store.csv
+   └── salespred.py
+   └── salenew.py
+   └── README
 |  │
 └───── Retail Stores Sales Prediction.ipynb
 ```
@@ -68,13 +65,13 @@ Using the attached sample data, please come up with your analytics approach:
 
 ## Version
 
-1.0.0 
+3.0.0 
 
 <br/>
 
 ## Author
 
-* **Rahul Gaikwad** - Initial work and development
+* **Anigbobi Churchill** 
 
 <br/>
 
@@ -84,6 +81,6 @@ Using the attached sample data, please come up with your analytics approach:
 
 <br/>
 
-I welcome your questions. Write to rahul.gaikwad2010@gmail.com
+Got questions. Write to canigbobi@gmail.com
 
 <br/>
